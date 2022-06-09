@@ -1,0 +1,7 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Wildcall/search_engine_frontend.git
+[submodule "logger"]
+	path = fronloggertend
+	url = https://github.com/Wildcall/search_engine_logger.git	
+	
