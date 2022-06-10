@@ -1,11 +1,12 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Wildcall/search_engine_frontend.git
-	
 [submodule "logger"]
 	path = logger
 	url = https://github.com/Wildcall/search_engine_logger.git
-
 [submodule "notification"]
 	path = notification
 	url = https://github.com/Wildcall/search_engine_notification.git
+[submodule "crawler"]
+	path = crawler
+	url = https://github.com/Wildcall/search_engine_crawler.git
