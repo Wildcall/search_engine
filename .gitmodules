@@ -28,3 +28,6 @@
 [submodule "registration"]
 	path = registration
 	url = https://github.com/Wildcall/search_engine_register
+[submodule "task_manager"]
+	path = task_manager
+	url = https://github.com/Wildcall/search_engine_task_manager
