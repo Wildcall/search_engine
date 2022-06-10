@@ -13,3 +13,7 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/Wildcall/search_engine_crawler.git
+
+[submodule "indexer"]
+	path = indexer
+	url = https://github.com/Wildcall/search_engine_indexer.git
