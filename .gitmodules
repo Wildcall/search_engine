@@ -5,3 +5,7 @@
 [submodule "logger"]
 	path = logger
 	url = https://github.com/Wildcall/search_engine_logger.git
+
+[submodule "notification"]
+	path = notification
+	url = https://github.com/Wildcall/search_engine_notification.git
