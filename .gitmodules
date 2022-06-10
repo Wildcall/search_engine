@@ -20,3 +20,6 @@
 [submodule "searcher"]
 	path = searcher
 	url = https://github.com/Wildcall/search_engine_searcher.git
+[submodule "searcher-engine-spring-boot-starter"]
+	path = searcher-engine-spring-boot-starter
+	url = https://github.com/Wildcall/searcher-engine-spring-boot-starter
